@@ -1,0 +1,3 @@
+BWPROJECT = "shan"
+BWDATABASE = "ecoinvent38"
+BWDATABASE_VERSION = "3.8" #
